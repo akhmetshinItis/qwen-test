@@ -1,0 +1,79 @@
+```
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.VC.db
+*.VC.VC.opendb
+*.user
+*.userosscache
+*.suo
+*.lock
+*.codeworkspace
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# Build results
+*.dll
+*.exe
+*.exe.config
+*.pdb
+*.dll.config
+*.nupkg
+*.msi
+*.msp
+*.msm
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.backup.rdb
+*.rdb
+
+# Environment specific settings
+.env
+.env.local
+.env.*
+!*.env.example
+
+# User-specific files
+*.userprefs
+*.useroptions
+
+# IDE
+.idea/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Test results
+TestResults/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+*.cached
+*.metadata
+```
